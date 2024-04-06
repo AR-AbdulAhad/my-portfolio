@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:https://abdulahad.site/sitemap.xml
